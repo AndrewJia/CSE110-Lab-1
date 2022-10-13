@@ -12,12 +12,12 @@ _change da world. my final message. **goodbye**_
 
 -tsun szu
 
-[Mystery Link]("https://www.youtube.com/watch?v=2TSaAysdHhk")
+[Mystery Link](https://www.youtube.com/watch?v=2TSaAysdHhk)
 
-[Mystery Link 2](README.md)
+[Mystery Link 2](/README.md)
 
 ## Iterative quicksort algorithm C++ implementation
-[source]("https://www.geeksforgeeks.org/iterative-quick-sort/")
+[source](https://www.geeksforgeeks.org/iterative-quick-sort/)
 ```
 // CPP code for recursive function of Quicksort
 #include <bits/stdc++.h>
@@ -98,4 +98,4 @@ int main()
 2. dos
 3. tres
 
-![mike](https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/e12bc6ef3949c8b435f2f9e6e3dbd985~c5_720x720.jpeg?x-expires=1664600400&x-signature=W%2Bw5g1choSF8chE9s1EFGuxy1cI%3D)
+![mike](https://i.kym-cdn.com/entries/icons/mobile/000/031/003/cover3.jpg)
